@@ -16,4 +16,3 @@ The dashboard highlights **revenue trends, cancellations, top products, and prof
 
 ---
 
-## 📂 Repository Structure
